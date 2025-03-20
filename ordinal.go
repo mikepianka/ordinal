@@ -1,3 +1,6 @@
+// Package ordinal provides utility functions for converting numbers to their ordinal text form.
+//
+// For example, when you want to provide 3 and get back "3rd".
 package ordinal
 
 import (
